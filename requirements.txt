@@ -1,4 +1,4 @@
-pandas==2.0.1
-openpyxl==3.1.2
-mypy==1.2.0
-pre-commit==3.2.2
+pandas
+openpyxl
+mypy
+pre-commit
